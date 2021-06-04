@@ -1,8 +1,8 @@
 name: vm_alert_package_demo
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Vijay Masal<vdmasal@gmail.com>
+homepage: https://github.com/vmasal/vm_alert_package_demo.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
